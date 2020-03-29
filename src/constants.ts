@@ -1,0 +1,4 @@
+export const PG_CONNECTION = 'PG_CONNECTION'
+export const JWT_EXPIRATION = '24h'
+export const REDIS_PROVIDER = 'REDIS_PROVIDER'
+export const ELASTIC_CLIENT = 'ELASTIC_CLIENT'
